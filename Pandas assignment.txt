@@ -1,0 +1,7 @@
+Written Description of Observable trends:
+
+Close to 85% of players are male and between the ages of 15-34. Players between the ages of 20-24 represent the biggest
+group with close to 45% of total players. In addition, players between 15-34 have a higher percentage of buying more than
+one game (They have as a group a higher percentage of overall games bought per people within their groups).Lastly, there 
+seems to be a direct correlation between how popular a game is and how expensive it is, and total sales generated. Meaning 
+that the price of a game is 'tied up' to its demand.
